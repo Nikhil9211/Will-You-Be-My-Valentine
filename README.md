@@ -1,4 +1,4 @@
-# Valentine's Day Interactive Website (CodeKage)
+# Valentine's Day Interactive Website
 
 Thank you to [@textonikki](https://instagram.com/textonikki) for the video idea!
 
